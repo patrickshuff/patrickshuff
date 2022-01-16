@@ -4,6 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=patrickshuff.patrickshuff)
 
 <h2> About Me </h2>
+
 - I ❤️  working w/ amazing people 🤩 Building world class teams 🌎
 
 - 🚀 Former CTO @ eFuse.gg 🎮 SRE @ Netflix 🎬 Production Engineer at facebook 🐍
