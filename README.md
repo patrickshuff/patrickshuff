@@ -4,8 +4,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=patrickshuff.patrickshuff)
 
 <h2> About Me </h2>
-
-- 🚀 Formerly the CTO @ eFuse.gg, SRE @ Netflix, Production Engineer at facebook
+- I ❤️  working w/ amazing people 🤩 Building world class teams 🌎
+- 🚀 Former CTO @ eFuse.gg 🎮 SRE @ Netflix 🎬 Production Engineer at facebook 🐍
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
