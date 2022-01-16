@@ -5,6 +5,7 @@
 
 <h2> About Me </h2>
 - I ❤️  working w/ amazing people 🤩 Building world class teams 🌎
+
 - 🚀 Former CTO @ eFuse.gg 🎮 SRE @ Netflix 🎬 Production Engineer at facebook 🐍
 
 
@@ -17,7 +18,7 @@
 </strong>
 </p>
 
-<h2> My Blog Posts </h2>
+<h2> Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Stacked Pull Requests on Github](https://medium.com/efuse-engineering/stacked-pull-requests-on-github-663c91bfa135)
