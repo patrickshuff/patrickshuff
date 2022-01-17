@@ -9,7 +9,6 @@
 
 - 🚀 Former CTO @ eFuse.gg 🎮 SRE @ Netflix 🎬 Production Engineer at facebook 🐍
 
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
 <strong>
@@ -18,6 +17,20 @@
 
 </strong>
 </p>
+
+<h2> Conference Presentations </h2>
+
+<!-- PRESENTATION-LIST:START -->
+- [[Columbus Web Group, Feb 2020] "404 Not Found: How the internet works (or doesn't)"](https://www.youtube.com/watch?v=LspuO1XDX0s)
+- [[Ohio Linux Fest 2019] Advanced Site Reliability Engineering (SRE): Networking](https://www.youtube.com/watch?v=XyzvNSSwkkY)
+- [[Ohio Linux Fest 2019] Advanced Site Reliability Engineering (SRE): Networking](https://www.youtube.com/watch?v=XyzvNSSwkkY)
+- [[USENIX LISA 2016 (Boston, MA)] Building a Billion User Load Balancer](https://www.youtube.com/watch?v=bxhYNfFeVF4) 
+- [[SREConf 2015 Europe (Dublin, Ireland)] Building a Billion User Load Balancer](https://www.youtube.com/watch?v=dKsOvc73gQk) 
+- [[SREConf 2015 US West (Santa Clara, CA)] Building a Billion User Load Balancer]() 
+- [[Southern California Linux Expo 13x (Pasadena, CA)] Building a Billion User Load Balancer](https://www.youtube.com/watch?v=MKgJeqF1DHw)
+- [[Slides] Building a Billion User Load Balancer](https://www.linkedin.com/in/patrickshuff/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAGqqjQBN_PID3VttLflDUX3wAm6sUHNV5w,51167011)/)
+
+<!-- PRESENTATION-LIST:END -->
 
 <h2> Blog Posts </h2>
 
