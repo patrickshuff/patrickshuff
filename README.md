@@ -8,7 +8,7 @@
 - 🚀 Former CTO @ eFuse.gg 🎮, SRE @ Netflix 🎬, Production Engineer at facebook 
 - 🌱 Experience scaling up modern web, mobile, and backend product teams (React, React Native, Typescript, GraphQL)
 - ☕ Obsessed with engineer efficiency and productivity (CI/CD, Reliability, Performance, Scaling)
-- 🤖 Spent many years at the intersection of Networking, Linux, and internet scale Content Delivery (TCP/IP, HTTP/2, BGP, etc)
+- 🤖 Spent many years at the intersection of large scale distributed systems, linux, and internet scale networking/content delivery (TCP/IP, HTTP/2, BGP, etc)
 - 🐧 15+ Years experience using python, linux, designing distributed systems
 - 🎯 Driven by working with amazing people and building world class engineering teams 🌎
 
