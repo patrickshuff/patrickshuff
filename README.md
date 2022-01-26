@@ -5,7 +5,7 @@
 
 <h1> 🧬 Quickstart </h1>
 
-- 🚀 Former CTO @ eFuse.gg 🎮, SRE @ Netflix 🎬, Production Engineer at facebook 
+- 🚀 Former CTO @ eFuse.gg 🎮, SRE @ Netflix 🎬, Production Engineer at facebook 🦄
 - 🌱 Experience scaling up modern web, mobile, and backend product teams (React, React Native, Typescript, GraphQL)
 - ☕ Obsessed with engineer efficiency and productivity (CI/CD, Reliability, Performance, Scaling)
 - 🤖 Spent many years at the intersection of large scale distributed systems, linux, and internet scale networking/content delivery (TCP/IP, HTTP/2, BGP, etc)
