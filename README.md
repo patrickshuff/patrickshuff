@@ -17,7 +17,6 @@
 <!-- PRESENTATION-LIST:START -->
 - [[Columbus Web Group, Feb 2020] "404 Not Found: How the internet works (or doesn't)"](https://www.youtube.com/watch?v=LspuO1XDX0s)
 - [[Ohio Linux Fest 2019] Advanced Site Reliability Engineering (SRE): Networking](https://www.youtube.com/watch?v=XyzvNSSwkkY)
-- [[Ohio Linux Fest 2019] Advanced Site Reliability Engineering (SRE): Networking](https://www.youtube.com/watch?v=XyzvNSSwkkY)
 - [[USENIX LISA 2016 (Boston, MA)] Building a Billion User Load Balancer](https://www.youtube.com/watch?v=bxhYNfFeVF4) 
 - [[SREConf 2015 Europe (Dublin, Ireland)] Building a Billion User Load Balancer](https://www.youtube.com/watch?v=dKsOvc73gQk) 
 - [[SREConf 2015 US West (Santa Clara, CA)] Building a Billion User Load Balancer]() 
