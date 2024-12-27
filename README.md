@@ -5,11 +5,13 @@
 
 <h1> 🧬 Quickstart </h1>
 
-- 🚀 Former CTO @ eFuse.gg 🎮, SRE @ Netflix 🎬, Production Engineer at facebook 🦄
+- 🔐Currently SRE/SWE @ Netflix leading CDN Network Security initiatives ☁️
+- 🚀 Former CTO @ eFuse.gg 🎮, SRE @ Coinbase 🎬, Production Engineer at facebook 🦄
 - 🌱 Experience scaling up modern web, mobile, and backend product teams (React, React Native, Typescript, GraphQL)
 - ☕ Obsessed with engineer efficiency and productivity (CI/CD, Reliability, Performance, Scaling)
 - 🤖 Spent many years at the intersection of large scale distributed systems, linux, and internet scale networking/content delivery (TCP/IP, HTTP/2, BGP, etc)
 - 🐧 15+ Years experience using python, linux, designing distributed systems
+- 👨‍💻 Delivered production code/applications across a variety of languages:  python, javascript/typescript, react/nextjs, golang, java
 - 🎯 Driven by working with amazing people and building world class engineering teams 🌎
 
 <h1> 👀 Conference Presentations </h1>
